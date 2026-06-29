@@ -1,8 +1,0 @@
-{
-  "name": "croctest-demo",
-  "version": "1.0.0",
-  "description": "Sandbox for the Lumeria feedback-fix demo",
-  "scripts": {
-    "test": "node --test"
-  }
-}
